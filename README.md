@@ -1,4 +1,4 @@
-# Unhinted Iosevka Term SS10 WebFont 19.0.0
+# Unhinted Iosevka Term SS10 WebFont 19.0.1
 
 ## How to use
 
